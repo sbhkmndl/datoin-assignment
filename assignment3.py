@@ -1,3 +1,7 @@
+'''
+Display all the subdivisions of KARNATAKA state in descending order of their average annual rainfall.
+'''
+
 import json
 from itertools import groupby
 

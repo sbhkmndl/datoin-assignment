@@ -1,3 +1,7 @@
+'''
+What is the average annual rainfall of 'COASTAL KARNATAKA' subdivision?
+'''
+
 import json
 
 with open('rainfall_india_1901-2015.jl','r') as file_json_lines:

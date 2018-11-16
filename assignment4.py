@@ -1,3 +1,7 @@
+'''
+Display the top 3 months on which KERALA state usually gets higher rainfall than other months.
+'''
+
 import json
 
 with open('rainfall_india_1901-2015.jl','r') as fr:

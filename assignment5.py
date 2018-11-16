@@ -1,3 +1,7 @@
+'''
+What are the 4 months in which, MOST OF the subdivisions see the lowest rainfall?
+'''
+
 import json
 from itertools import groupby
         
